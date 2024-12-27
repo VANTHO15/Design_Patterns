@@ -1,1 +1,2 @@
-# Design_Patterns
+- Tài liệu: https://drive.google.com/file/d/15dFjV1BhgIlN1259tZTiYneWXYsd7eM7/view?usp=sharing
+- Slide: 
